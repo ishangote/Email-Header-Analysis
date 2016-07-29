@@ -1,2 +1,4 @@
 # Email-Header-Analysis
-Displaying key-value pairs by parsing through sample Email Header.
+Sample email header copied in text file.
+Code written in python to parse through text file and return specefic "key-value" pairs.
+
