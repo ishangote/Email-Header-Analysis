@@ -1,0 +1,26 @@
+Delivered-To: ishangote96@gmail.com
+Received: by 10.31.80.7 with SMTP id e7csp186237vkb;
+        Fri, 10 Jun 2016 00:11:11 -0700 (PDT)
+X-Received: by 10.202.169.205 with SMTP id s196mr191728oie.101.1465542671690;
+        Fri, 10 Jun 2016 00:11:11 -0700 (PDT)
+Return-Path: <tickets@ksrtc.in>
+Received: from MAIL_Server ([103.230.85.208])
+        by mx.google.com with ESMTPS id 68si4561078otq.151.2016.06.10.00.11.11
+        for <ishangote96@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 10 Jun 2016 00:11:11 -0700 (PDT)
+Received-SPF: temperror (google.com: error in processing during lookup of tickets@ksrtc.in: DNS error) client-ip=103.230.85.208;
+Authentication-Results: mx.google.com;
+       spf=temperror (google.com: error in processing during lookup of tickets@ksrtc.in: DNS error) smtp.mailfrom=tickets@ksrtc.in
+Received: from Database-Server2 ([10.240.213.237])
+	by MAIL_Server (8.14.4/8.14.4) with ESMTP id u5A6wqAA055827;
+	Fri, 10 Jun 2016 12:28:52 +0530
+Date: Fri, 10 Jun 2016 12:28:52 +0530
+From: tickets@ksrtc.in
+To: ishangote96@gmail.com
+Message-ID: <1532830960.123471465542635499.JavaMail.root@10.240.213.233>
+Subject: Hi .. Guest User .. Your E-Ticket From KSRTC (Auto Generated Mail)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
