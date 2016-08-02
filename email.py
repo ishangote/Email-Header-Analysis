@@ -1,4 +1,4 @@
-#/bin/python
+#!/usr/bin/python
 #To print key-value pairs of email header.
 
 rlist=[]
